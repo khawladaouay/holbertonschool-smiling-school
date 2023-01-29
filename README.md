@@ -11,11 +11,7 @@ You won’t have a lot of instruction, you are free to implement it the way that
 # Here the final result:
 
 ![image link](https://github.com/khawladaouay/holbertonschool-smiling-school/blob/master/images/1.jpg)
-![image link](https://github.com/khawladaouay/holbertonschool-smiling-school/blob/master/images/2.jpg)
-![image link](https://github.com/khawladaouay/holbertonschool-smiling-school/blob/master/images/3.jpg)
-![image link](https://github.com/khawladaouay/holbertonschool-smiling-school/blob/master/images/4.jpg)
-![image link](https://github.com/khawladaouay/holbertonschool-smiling-school/blob/master/images/5.jpg)
-![image link](https://github.com/khawladaouay/holbertonschool-smiling-school/blob/master/images/6.jpg)
+
 
 # Requirements
 You have to use Bootstrap
